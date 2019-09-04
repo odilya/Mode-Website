@@ -1,0 +1,128 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav{
+	width: 100%;
+	background-color: #FFF;
+	font-family: Arial;
+	font-size: 18px;
+	background-image:url("http://www.infodimanche.com/upload/www.infodimanche.com/evenements/2017/8/318120/national-geographic-mathieu-dupuis-photographe-arc-en-ciel-quebec-riviere-du-loup-001.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav ul{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+nav li{
+	list-style-type: none;
+	float: left;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding:20px 30px;
+	color: #000;
+
+}
+
+nav li:hover a{
+	padding: 15px 30px 20px 30px;
+	color: #661A6B;
+}
+.table{
+	display:table;
+	margin: 0 auto;
+}
+
+
+
+
+
+title{
+	color: #B4AF91;
+	font-size: 50px;
+}
+
+body{
+	background-color: #1F2625;
+	font-family: 'Molengo', Georgia, Times, serif;
+	font-size: 18px;
+}
+
+.body1{
+	background-image: url("https://www.socialsamosa.com/wp-content/uploads/2014/12/famous.jpg");
+    background-repeat: no-repeat;
+	background-size :cover;
+
+}
+
+
+h1 {
+	color: #E3C588;
+	font-size: 80px;
+	font-family: 'Raleway',Helvetica, Arial , sans serif;
+}
+
+h2{
+	color: #E3C588;
+	font-size: 50px;
+	font-family: 'Raleway',Helvetica, Arial , sans serif;
+}
+
+h3{
+	color: #585A20;
+	font-size: 50px;
+}
+
+h4{
+	color: #84C2E1;
+	font-size: 50px;
+	font-family: Impact, fantasy ;
+}
+h5{
+	color:#CCCCCC;
+	font-size: 50px;
+}
+
+.div0{
+	color: #F2F9F8 ;
+	width: 69%;
+	margin: 0px auto;
+	text-align: center;
+
+}
+
+.div1{
+	color: #F2F9F8 ;
+	width: 69%;
+	margin: 0px auto;
+	text-align: center;
+}
+.div2{
+	color: #F2F9F8 ;
+	width: 69%;
+	text-align: center;
+	margin: 0px auto; 
+
+}
+.div3{
+	color: #F2F9F8 ;
+	width: 69%;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.div4{
+	color: #E07BE8 ;
+	width: 69%;
+	margin: 0px auto;
+}
+
