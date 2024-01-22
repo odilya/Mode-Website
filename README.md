@@ -1,5 +1,4 @@
 # Mode-Website
-
 Voici mon premier site web en HTML et CSS, que j'ai réalisé au lycée en terminale pour une évaluation en informatique. Les critères d'évaluation du site web comprenaient l'intégration des éléments suivants :
 - Barre de navigation
 - Titre
