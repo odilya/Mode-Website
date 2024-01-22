@@ -8,5 +8,4 @@ Voici mon premier site web en HTML et CSS, que j'ai réalisé au lycée en termi
 - Musique
 - Tableau
 
-[Capture first website](https://github.com/odilya/Mode-Website/assets/54360665/d170c593-9c50-4b85-9acb-5b693a720136)
-
+![Capture first website](https://github.com/odilya/Mode-Website/assets/54360665/463b1f06-9ba5-4745-8380-b09fde04f4e7)
